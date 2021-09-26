@@ -1,1 +1,1 @@
-# [HowToUse_GinzBot](HowToUse_GinzBot.MD)
+# [HowToUse_GinzBot](HowToUse_GinzBot.md)
