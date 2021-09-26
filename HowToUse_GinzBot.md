@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://api.koreanbots.dev/widget/bots/servers/87858636476396759.svg" title="서버 수" alt="ㅁㄴㅇㄹ">
+    <img src="https://api.koreanbots.dev/widget/bots/servers/878586364763967519.svg" title="서버 수" alt="ㅁㄴㅇㄹ">
     <img src="https://api.koreanbots.dev/widget/bots/votes/878586364763967519.svg" title="하트 수" alt="ㅁㄴㅇㄹ">
 </p>
 
