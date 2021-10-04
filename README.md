@@ -1,1 +1,1 @@
-# [HowToUse_GinzBot](HowToUse_GinzBot.md)
+# [HowToUse_Template](HowToUse_Template.md)
