@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="images/1.PNG" width="40%" height="30%" title="긵봇" alt="ㅁㄴㅇㄹ">
+    <img src="images/1.PNG" width="40%" height="30%" title="템플릿" alt="ㅁㄴㅇㄹ">
 </p>
 
 <p align="center">
@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-    <a href="https://c11.kr/discordbot_ginzb" target="_blank" title="초대하기">
-        <b>긵봇</b>
+    <a href="https://c11.kr/discordbot_template" target="_blank" title="초대하기">
+        <b>템플릿</b>
     </a>
 </p>
 
