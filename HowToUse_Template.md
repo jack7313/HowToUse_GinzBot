@@ -1,10 +1,12 @@
 <p align="center">
-    <img src="images/template.png" width="40%" height="30%" title="템플릿" onclick="javascript:location.href='https://koreanbots.dev/bots/878586364763967519';">
+    <img src="images/template.png" width="40%" height="30%" title="템플릿">
 </p>
 
 <p align="center">
-    <img src="https://koreanbots.dev/api/widget/bots/servers/878586364763967519.svg" title="서버 수" onclick="javascript:location.href='https://koreanbots.dev/bots/878586364763967519';">
-    <img src="https://koreanbots.dev/api/widget/bots/votes/878586364763967519.svg" title="하트 수" onclick="javascript:location.href='https://koreanbots.dev/bots/878586364763967519';">
+<!--     <img src="https://koreanbots.dev/api/widget/bots/servers/878586364763967519.svg" title="서버 수">
+    <img src="https://koreanbots.dev/api/widget/bots/votes/878586364763967519.svg" title="하트 수"> -->
+    ![asdf](https://koreanbots.dev/api/widget/bots/servers/878586364763967519.svg)
+    ![asdf](https://koreanbots.dev/api/widget/bots/votes/878586364763967519.svg)
 </p>
 
 <p align="center">
@@ -16,7 +18,7 @@
 
 # 템플릿
 
-**긵봇**은 서버 템플릿을 공유하고 적용할 수 있는 봇입니다!
+**템플릿**은 서버 템플릿을 공유하고 적용할 수 있는 봇입니다!
 
 
 ## 명령어
