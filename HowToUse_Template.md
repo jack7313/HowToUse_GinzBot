@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="images/template.png" width="40%" height="30%" title="템플릿" alt="ㅁㄴㅇㄹ">
+    <img src="images/template.png" width="40%" height="30%" title="템플릿" onclick="javascript:location.href='https://koreanbots.dev/bots/878586364763967519';">
 </p>
 
 <p align="center">
-    <img src="https://koreanbots.dev/api/widget/bots/servers/878586364763967519.svg" title="서버 수" alt="ㅁㄴㅇㄹ">
-    <img src="https://koreanbots.dev/api/widget/bots/votes/878586364763967519.svg" title="하트 수" alt="ㅁㄴㅇㄹ">
+    <img src="https://koreanbots.dev/api/widget/bots/servers/878586364763967519.svg" title="서버 수" onclick="javascript:location.href='https://koreanbots.dev/bots/878586364763967519';">
+    <img src="https://koreanbots.dev/api/widget/bots/votes/878586364763967519.svg" title="하트 수" onclick="javascript:location.href='https://koreanbots.dev/bots/878586364763967519';">
 </p>
 
 <p align="center">
