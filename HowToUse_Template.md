@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-<!--     <img src="https://koreanbots.dev/api/widget/bots/servers/878586364763967519.svg" title="서버 수">
-    <img src="https://koreanbots.dev/api/widget/bots/votes/878586364763967519.svg" title="하트 수"> -->
-    ![asdf](https://koreanbots.dev/api/widget/bots/servers/878586364763967519.svg)
-    ![asdf](https://koreanbots.dev/api/widget/bots/votes/878586364763967519.svg)
+    <a href="https://koreanbots.dev/bots/878586364763967519" target="_blank">
+        <img src="https://koreanbots.dev/api/widget/bots/servers/878586364763967519.svg" title="서버 수">
+        <img src="https://koreanbots.dev/api/widget/bots/votes/878586364763967519.svg" title="하트 수">
+    </a>
 </p>
 
 <p align="center">
